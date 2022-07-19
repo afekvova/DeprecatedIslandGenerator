@@ -1,0 +1,7 @@
+name: DeprecatedIslandGenerator
+version: '${version}'
+main: me.afek.deprecatedislandgenerator.DeprecatedIslandGenerator
+api-version: 1.17
+authors: [ Afek ]
+website: t.me/afekvova
+load: STARTUP
